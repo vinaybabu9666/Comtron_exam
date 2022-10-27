@@ -1,0 +1,47 @@
+.head{
+    background-color: rgb(99, 99, 205);
+    color:white;
+    
+}
+.tab{
+    margin: left;
+    text-align: center;
+    width: 900px;
+    height: 200px;
+    border-color: black;
+    padding: 8px;
+    margin-left: 250px;
+    margin-top: 50px;
+    
+    
+}
+.tdata{
+    background: #F4F7FC; ;
+
+}
+.btn{
+    /* background-color: blue;
+    text-align: center;
+    color: white;
+    padding-right: 5px; */
+    width: 80px;
+    height: 27px;
+    left: 40px;
+    top: calc(50% - 17px/2);
+}
+.div{
+margin-left: 100px;
+}
+.tabcolor{
+    color: white;
+}
+.form{
+    margin-top: auto;
+    size: 200px;
+    height: 50px;
+}
+.input{
+    padding: 10px;
+    /* color: #F4F7FC; */
+    background-color: #F4F7FC;
+}
